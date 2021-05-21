@@ -1,2 +1,2 @@
-# SWAPI.github.io
- Frontend for Star Wars Api
+# VueSwapi
+ Frontend for Star Wars Api using VueJS
